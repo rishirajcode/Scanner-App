@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QueenScanner.iml" filepath="$PROJECT_DIR$/QueenScanner.iml" group="QueenScanner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QueenScanner-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QueenScanner-app.iml" group="QueenScanner/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamicgrid/QueenScanner-dynamicgrid.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamicgrid/QueenScanner-dynamicgrid.iml" group="QueenScanner/dynamicgrid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary310/QueenScanner-openCVLibrary310.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary310/QueenScanner-openCVLibrary310.iml" group="QueenScanner/openCVLibrary310" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/photo-editor-sdk-2.0.27/QueenScanner-photo-editor-sdk-2.0.27.iml" filepath="$PROJECT_DIR$/.idea/modules/photo-editor-sdk-2.0.27/QueenScanner-photo-editor-sdk-2.0.27.iml" group="QueenScanner/photo-editor-sdk-2.0.27" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="QueenScanner/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tedpicker/com.github.ParkSangGwon-tedpicker.iml" filepath="$PROJECT_DIR$/.idea/modules/tedpicker/com.github.ParkSangGwon-tedpicker.iml" group="QueenScanner/tedpicker" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicgrid/dynamicgrid.iml" filepath="$PROJECT_DIR$/dynamicgrid/dynamicgrid.iml" group="pdf-scanner-2020/dynamicgrid" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary310/openCVLibrary310.iml" filepath="$PROJECT_DIR$/openCVLibrary310/openCVLibrary310.iml" group="QueenScanner/openCVLibrary310" />
+      <module fileurl="file://$PROJECT_DIR$/photo-editor-sdk-2.0.27/photo-editor-sdk-2.0.27.iml" filepath="$PROJECT_DIR$/photo-editor-sdk-2.0.27/photo-editor-sdk-2.0.27.iml" group="QueenScanner/photo-editor-sdk-2.0.27" />
+      <module fileurl="file://$PROJECT_DIR$/tedpicker/tedpicker.iml" filepath="$PROJECT_DIR$/tedpicker/tedpicker.iml" group="QueenScanner/tedpicker" />
+    </modules>
+  </component>
+</project>

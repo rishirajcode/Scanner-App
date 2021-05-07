@@ -14,14 +14,6 @@ Scanner App is successfully designed and developed to fulfil the necessary requi
 **Screenshots**
 
 ![Screenshot_20210504-134234_Scanner App](https://user-images.githubusercontent.com/65900494/117483224-1605fd80-af83-11eb-923f-3a0be6c985b8.png)
-![WhatsApp Image 2021-05-04 at 9 12 13 PM](https://user-images.githubusercontent.com/65900494/117483178-0a1a3b80-af83-11eb-9eed-b16c6014c885.jpeg)
-![WhatsApp Image 2021-05-04 at 9 12 11 PM](https://user-images.githubusercontent.com/65900494/117483189-0e465900-af83-11eb-8a84-cba2d7b014c0.jpeg)
-![Screenshot_20210504-211617_Scanner App](https://user-images.githubusercontent.com/65900494/117483193-0f778600-af83-11eb-9123-1c1c2c212aa7.png)
-![Screenshot_20210504-211609_Scanner App](https://user-images.githubusercontent.com/65900494/117483196-10a8b300-af83-11eb-9d88-fe39bd2e14c0.png)
-![Screenshot_20210504-211559_Scanner App](https://user-images.githubusercontent.com/65900494/117483200-11d9e000-af83-11eb-8337-b9d7cb7b908b.png)
-![Screenshot_20210504-211450_Scanner App](https://user-images.githubusercontent.com/65900494/117483213-13a3a380-af83-11eb-94a2-a31f02b8d161.png)
-
-
 
 **REFERENCES**: 
 ▪ Programming with JAVA by E Balagurusamy 

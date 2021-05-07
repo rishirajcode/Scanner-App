@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.nextcloud:android-library:-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f27f86a61737959b66b6d42cfdcc773/jetified-android-library--SNAPSHOT/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f27f86a61737959b66b6d42cfdcc773/jetified-android-library--SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f27f86a61737959b66b6d42cfdcc773/jetified-android-library--SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nextcloud/android-library/-SNAPSHOT/3ca0fe1d4678a872b7ba24911597016c09e5f314/android-library--SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

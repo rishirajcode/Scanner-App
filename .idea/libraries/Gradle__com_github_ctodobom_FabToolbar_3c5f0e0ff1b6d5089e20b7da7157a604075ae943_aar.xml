@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ctodobom:FabToolbar:3c5f0e0ff1b6d5089e20b7da7157a604075ae943@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b04c510fc97b9af3f5e10c7ad04f2e34/jetified-FabToolbar-3c5f0e0ff1b6d5089e20b7da7157a604075ae943/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b04c510fc97b9af3f5e10c7ad04f2e34/jetified-FabToolbar-3c5f0e0ff1b6d5089e20b7da7157a604075ae943/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b04c510fc97b9af3f5e10c7ad04f2e34/jetified-FabToolbar-3c5f0e0ff1b6d5089e20b7da7157a604075ae943/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ctodobom/FabToolbar/3c5f0e0ff1b6d5089e20b7da7157a604075ae943/cf197ac021398c27b153ff16cf5f336510900c02/FabToolbar-3c5f0e0ff1b6d5089e20b7da7157a604075ae943-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ctodobom/FabToolbar/3c5f0e0ff1b6d5089e20b7da7157a604075ae943/267936fd3e6ff9c6d1f4cf9b6981489a56410a37/FabToolbar-3c5f0e0ff1b6d5089e20b7da7157a604075ae943-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
